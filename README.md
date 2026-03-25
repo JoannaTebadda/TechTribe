@@ -19,9 +19,9 @@
 
 ## 📌 Problem Statement
 
-African freelancers receive income from 4 to 6 or more scattered platforms — Upwork, Fiverr, Payoneer, direct bank transfers. The average payment delay is **41 days** across Africa — **51 days in Nigeria** and **39 days in Kenya**. Freelancers waste **5 to 10+ hours every month** chasing late payments, have zero real-time visibility into their cash flow, and often dip into personal savings to cover income gaps.
+African freelancers receive income from 4 to 6 or more scattered platforms, Upwork, Fiverr, Payoneer, direct bank transfers. The average payment delay is **41 days** across Africa, **51 days in Nigeria** and **39 days in Kenya**. Freelancers waste **5 to 10+ hours every month** chasing late payments, have zero real-time visibility into their cash flow, and often dip into personal savings to cover income gaps.
 
-**PayTracka solves this with one unified dashboard — a WhatsApp for your money.**
+**PayTracka solves this with one unified dashboard, a WhatsApp for your money.**
 
 ---
 
